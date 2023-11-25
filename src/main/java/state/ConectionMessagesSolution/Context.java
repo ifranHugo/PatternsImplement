@@ -3,9 +3,7 @@ package state.ConectionMessagesSolution;
 import state.ConectionMessages.Link;
 
 public class Context {
-
     private State state;
-
     protected Link link;
     public Context(Link link){
         //assert link t= null;

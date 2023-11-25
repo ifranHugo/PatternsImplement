@@ -5,77 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eebaca78-bee9-47e0-89b0-f01e57812730" name="Changes" comment="crear repo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/ClothesAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/factories/FootballClothesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/factories/GalaClothesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/factories/SportClothesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/Trousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shirt/FootballShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shirt/GalaShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shirt/SportShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shoe/FootbalShoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shoe/GalaShoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/shoe/SportShoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/trousers/FootballTrousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/trousers/GalaTrousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/products/trousers/SportTrousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/AbstractPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/BankDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/FactoryMethodPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/MercadoPago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/PaymentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/ExemapleEmployee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/ExemapleEmployee/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/ExemapleEmployee/EmployeeRepositoryImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/ExemapleEmployee/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/ExemapleEmployee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioImplMongo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioImplOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Factory/ReferencesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Logger/Clazz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Logger/Clazz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Logger/Clazz3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Logger/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Logger/LoggerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/ReferencesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/pruebaSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessages/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessages/Estado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessages/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Cerrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Esperando.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Parado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Preparado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/StateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/GameStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Strategies/AgressiveDefense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Strategies/AttackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Strategies/PeacefulDefense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/StrategyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/singleton/Logger/LoggerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/singleton/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/state/ConexionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/ObserverMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/PesosArgentinosObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/PesosChilenosObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/PesosUruguayosObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer/SubjectMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/BaseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/ExampleProduct/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/ExampleProduct/BoxPriceByMeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/ExampleProduct/BoxProductComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/ExampleProduct/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/ExampleProduct/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/TestComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependecyInjection/cellInjection/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependecyInjection/cellInjection/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependecyInjection/cellInjection/Chip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependecyInjection/cellInjection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioImplOracle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioImplOracle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inversionOfControl/UsuarioInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/state/ConectionMessagesSolution/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/GameStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/GameStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,36 +60,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="AbstractFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryMethodPattern">
-    <configuration name="AbstractFactoryComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryAbstract.AbstractFactoryComponent" />
+  <component name="RunManager" selected="Application.dependecyInjection.cellInjection.Main">
+    <configuration name="FactoryMethodPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factoryMethod.FactoryMethodPattern" />
       <module name="PatronesImplement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryAbstract.*" />
+          <option name="PATTERN" value="factoryMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMethodPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factoryMethod.FactoryMethodPattern" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.ExampleProduct.Main" />
       <module name="PatronesImplement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factoryMethod.*" />
+          <option name="PATTERN" value="composite.ExampleProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Observer.Main" />
+      <module name="PatronesImplement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,45 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConexionTest.testAbrirConexionDesdeEstadoCerrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="dependecyInjection.cellInjection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dependecyInjection.cellInjection.Main" />
       <module name="PatronesImplement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="dependecyInjection.cellInjection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="State" />
-      <option name="MAIN_CLASS_NAME" value="state.ConexionTest" />
-      <option name="METHOD_NAME" value="testAbrirConexionDesdeEstadoCerrado" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConexionTest.testCerrarConexionDesdeEstadoPreparado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PatronesImplement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="state.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="State" />
-      <option name="MAIN_CLASS_NAME" value="state.ConexionTest" />
-      <option name="METHOD_NAME" value="testCerrarConexionDesdeEstadoPreparado" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dependecyInjection.cellInjection.Main" />
+        <item itemvalue="Application.Observer.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FactoryMethodPattern" />
         <item itemvalue="Application.StrategyApp" />
-        <item itemvalue="Application.AbstractFactoryComponent" />
-        <item itemvalue="JUnit.ConexionTest.testAbrirConexionDesdeEstadoCerrado" />
-        <item itemvalue="JUnit.ConexionTest.testCerrarConexionDesdeEstadoPreparado" />
       </list>
     </recent_temporary>
   </component>
@@ -232,12 +180,35 @@
       <workItem from="1700236927334" duration="639000" />
       <workItem from="1700314257593" duration="6456000" />
       <workItem from="1700595611529" duration="545000" />
-      <workItem from="1700596237112" duration="15322000" />
+      <workItem from="1700596237112" duration="15597000" />
+      <workItem from="1700848239787" duration="2935000" />
+      <workItem from="1700918443747" duration="3170000" />
+      <workItem from="1700921693712" duration="13655000" />
     </task>
+    <task id="LOCAL-00001" summary="crear repo">
+      <option name="closed" value="true" />
+      <created>1700614206753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700614206753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="crear repo" />

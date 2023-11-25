@@ -1,6 +1,6 @@
 package inversionOfControl;
 
 public interface UsuarioInterface {
-    public void insertaUsuario(int id);
-    public  void eliminaUsuarioById(int id);
+    void insertaUsuario(int id);
+    void eliminaUsuarioById(int id);
 }

@@ -6,7 +6,9 @@ public class UsuarioImplOracle implements UsuarioInterface{
 
     @Override
     public void insertaUsuario(int id) {
+
         System.out.println("Insertando usuario en Oracle: "+id);
+
     }
 
     @Override
